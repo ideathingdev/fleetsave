@@ -1,0 +1,232 @@
+.android-large1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.android-large1-android-large1 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.android-large1-container1 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  margin-top: var(--dl-space-space-fourunits);
+  align-items: stretch;
+  margin-bottom: var(--dl-space-space-fourunits);
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.android-large1-image {
+  width: 50%;
+  align-self: center;
+  object-fit: cover;
+}
+.android-large1-container2 {
+  gap: var(--dl-space-space-twounits);
+  width: 60%;
+  height: 314px;
+  display: flex;
+  align-self: center;
+  margin-top: var(--dl-space-space-fourunits);
+  align-items: center;
+ 
+  justify-content: center;
+}
+.android-large1-image1 {
+  width: auto;
+  height: 100%;
+  object-fit: cover;
+}
+.android-large1-image2 {
+  width: auto;
+  height: 100%;
+  object-fit: cover;
+}
+.android-large1-image3 {
+  width: auto;
+  height: 100%;
+  object-fit: cover;
+}
+.android-large1-container3 {
+  gap: var(--dl-space-space-twounits);
+  height: auto;
+  display: flex;
+  align-self: stretch;
+  align-items: stretch;
+
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: center;
+}
+.android-large1-text {
+  color: rgb(0, 0, 0);
+  width: 40%;
+  height: auto;
+  margin: var(--dl-space-space-twounits);
+  font-size: 18px;
+  align-self: center;
+  font-style: Regular;
+  text-align: center;
+  font-family: "Roboto Slab";
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large1-video {
+  width: 40%;
+  height: auto;
+  align-self: center;
+}
+.android-large1-text22 {
+  color: rgba(0, 0, 0, 1);
+  width: 40%;
+  height: auto;
+  margin: var(--dl-space-space-twounits);
+  font-size: 18px;
+  align-self: center;
+  font-style: Regular;
+  text-align: center;
+  font-family: "Roboto Slab";
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.video {
+  width: 40%;
+  height: auto;
+  align-self: center;
+}
+
+.android-large1-text27 {
+  color: rgba(0, 0, 0, 1);
+  width: 40%;
+  height: auto;
+  font-size: 18px;
+  align-self: center;
+  font-style: Regular;
+  text-align: center;
+  font-family: "Roboto Slab";
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large1-text28 {
+  font-weight: 400;
+}
+.android-large1-button {
+  color: #ffffff;
+  width: 30%;
+  font-size: 24px;
+  align-self: center;
+  border-style: hidden;
+  background-color: #0c71b8;
+}
+.android-large1-image4 {
+  width: 50%;
+  align-self: center;
+  object-fit: cover;
+}
+@media(max-width: 479px) {
+  .android-large1-android-large1 {
+    height: auto;
+    margin-top: var(--dl-space-space-twounits);
+    margin-bottom: 0px;
+  }
+  .android-large1-image {
+    width: 80%;
+  }
+  .android-large1-container2 {
+    gap: var(--dl-space-space-unit);
+    width: 80%;
+    height: 94px;
+    position: relative;
+    align-self: center;
+    margin-top: var(--dl-space-space-twounits);
+    align-items: center;
+    margin-bottom: var(--dl-space-space-twounits);
+    justify-content: center;
+  }
+  .android-large1-image1 {
+    width: auto;
+    height: 100%;
+    align-self: stretch;
+  }
+  .android-large1-image2 {
+    width: auto;
+    height: 100%;
+    align-self: stretch;
+  }
+  .android-large1-image3 {
+    width: auto;
+    height: 100%;
+    align-self: stretch;
+  }
+  .android-large1-container3 {
+    gap: var(--dl-space-space-twounits);
+    width: 80%;
+    align-self: center;
+   
+    padding-top: 0px;
+    
+    padding-bottom: 0px;
+    justify-content: center;
+  }
+  .android-large1-text {
+    width: 100%;
+    font-size: 17px;
+  }
+  .android-large1-video {
+    width: 100%;
+    height: auto;
+    align-self: stretch;
+  }
+  .android-large1-text22 {
+    width: 100%;
+    font-size: 17px;
+  }
+  .video {
+    width: 100%;
+    height: auto;
+  }
+  .android-large1-text27 {
+    width: 100%;
+    font-size: 17px;
+  }
+  .android-large1-button {
+    color: #ffffff;
+    width: 60%;
+    padding: var(--dl-space-space-halfunit);
+    font-size: 18px;
+    align-self: center;
+    font-style: normal;
+    font-family: Roboto Slab;
+    font-weight: 500;
+    padding-top: 10px;
+    border-style: hidden;
+    padding-left: 0px;
+    border-radius: 0px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+    background-color: #0c71b8;
+  }
+  .android-large1-image4 {
+    width: 80%;
+    align-self: center;
+  }
+}
